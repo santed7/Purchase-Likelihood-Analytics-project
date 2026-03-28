@@ -24,6 +24,10 @@ This project applies data science techniques to analyze customer data and build 
 - Built a classification model to predict transaction success
 - Evaluated performance using cross-validation
 - Identified key factors influencing purchase likelihood
+- ## Key Insights
+- Identified patterns in customer behavior linked to successful transactions
+- Model provides a baseline for predicting purchase likelihood
+- Can be extended for real-world business decision systems
 
 ---
 
